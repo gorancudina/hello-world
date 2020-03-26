@@ -1,0 +1,12 @@
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.deps.json
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.AssemblyInfo.cs
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.csproj.CopyComplete
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.csproj.CoreCompileInputs.cache
