@@ -1,0 +1,4 @@
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.IoC.deps.json
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.IoC.dll
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\obj\Debug\netcoreapp3.1\CleanArch.IoC.AssemblyInfoInputs.cache
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\obj\Debug\netcoreapp3.1\CleanArch.IoC.AssemblyInfo.cs
