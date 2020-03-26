@@ -2,3 +2,15 @@ C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\bin\Debug\
 C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.IoC.dll
 C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\obj\Debug\netcoreapp3.1\CleanArch.IoC.AssemblyInfoInputs.cache
 C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\obj\Debug\netcoreapp3.1\CleanArch.IoC.AssemblyInfo.cs
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.IoC.pdb
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.Application.dll
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.Application.pdb
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\obj\Debug\netcoreapp3.1\CleanArch.IoC.csprojAssemblyReference.cache
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\obj\Debug\netcoreapp3.1\CleanArch.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\obj\Debug\netcoreapp3.1\CleanArch.IoC.csproj.CopyComplete
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\obj\Debug\netcoreapp3.1\CleanArch.IoC.dll
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.IoC\obj\Debug\netcoreapp3.1\CleanArch.IoC.pdb

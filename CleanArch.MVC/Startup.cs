@@ -13,6 +13,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using CleanArch.Infra.Data.Context;
+using CleanArch.IoC;
 
 namespace CleanArch.MVC
 {
@@ -41,7 +42,12 @@ namespace CleanArch.MVC
 
             services.AddControllersWithViews();
             services.AddRazorPages();
+
+            RegisterServices(services);
+
         }
+
+        
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -73,5 +79,13 @@ namespace CleanArch.MVC
                 endpoints.MapRazorPages();
             });
         }
+
+        private static void RegisterServices(IServiceCollection services)
+        {
+            DependencyContainer.RegisterServices(services);
+        }
+
     }
+
+    
 }

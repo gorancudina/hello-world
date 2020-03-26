@@ -86,3 +86,7 @@ C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.MVC\bin\Debug\
 C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
 C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
 C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Application.dll
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.IoC.dll
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.IoC.pdb
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.MVC\bin\Debug\netcoreapp3.1\CleanArch.Application.pdb

@@ -25,6 +25,7 @@
       "CleanArch.MVC/1.0.0": {
         "dependencies": {
           "CleanArch.Infra.Data": "1.0.0",
+          "CleanArch.IoC": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.2",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.2",
           "Microsoft.AspNetCore.Identity.UI": "3.1.2",
@@ -1342,6 +1343,17 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
+      "CleanArch.Application/1.0.0": {
+        "dependencies": {
+          "CleanArch.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArch.Application.dll": {}
+        },
+        "compile": {
+          "CleanArch.Application.dll": {}
+        }
+      },
       "CleanArch.Domain/1.0.0": {
         "runtime": {
           "CleanArch.Domain.dll": {}
@@ -1362,6 +1374,19 @@
         },
         "compile": {
           "CleanArch.Infra.Data.dll": {}
+        }
+      },
+      "CleanArch.IoC/1.0.0": {
+        "dependencies": {
+          "CleanArch.Application": "1.0.0",
+          "CleanArch.Infra.Data": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "3.1.3"
+        },
+        "runtime": {
+          "CleanArch.IoC.dll": {}
+        },
+        "compile": {
+          "CleanArch.IoC.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3594,12 +3619,22 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
+    "CleanArch.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "CleanArch.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "CleanArch.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.IoC/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
