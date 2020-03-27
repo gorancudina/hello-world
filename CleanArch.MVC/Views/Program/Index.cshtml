@@ -1,0 +1,17 @@
+﻿@model CleanArch.Application.ViewModels.ProgramViewModel
+
+
+    <div class="container body-content">
+        <div class="row course-content">
+
+            @foreach (var program in Model.Programs)
+            {
+                <div class="course-image-container">
+                    <div class="course_image" ></div>
+                </div>
+                <span>
+                    @program.Name
+                </span>
+            }
+        </div>
+    </div>

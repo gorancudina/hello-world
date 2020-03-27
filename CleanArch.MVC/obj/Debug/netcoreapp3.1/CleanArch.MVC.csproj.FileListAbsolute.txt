@@ -163,3 +163,4 @@ C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.MVC\obj\Debug\
 C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.MVC\obj\Debug\netcoreapp3.1\CleanArch.MVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\Developer\source\repos\gorancudina\hello-world\CleanArch.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Program\Index.cshtml.g.cs
